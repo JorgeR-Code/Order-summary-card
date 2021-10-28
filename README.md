@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/JorgeR-Code/Order-summary-card.git)
-- Live Site URL: [](https://suscripcion.jorgerivera.me)
+- Solution URL: https://github.com/JorgeR-Code/Order-summary-card.git
+- Live Site URL: https://suscripcion.jorgerivera.me
 
 ## My process
 
